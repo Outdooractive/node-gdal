@@ -41,7 +41,8 @@
 			"CPU_<(endianness)_ENDIAN=1",
 			"BIGTIFF_SUPPORT=1",
 			"ZIP_SUPPORT=1",
-			"JPEG_SUPPORT=1"
+			"JPEG_SUPPORT=1",
+			"PACKBITS_SUPPORT=1"
 		],
 		"dependencies": [
 			"<(deps_dir)/libexpat/libexpat.gyp:libexpat",
